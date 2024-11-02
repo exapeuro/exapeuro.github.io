@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exapeuro.github.io/Yvd/sitemap_index.txt
+Sitemap: https://exapeuro.github.io/aMx/sitemap_index.txt
+Sitemap: https://exapeuro.github.io/cql/sitemap_index.txt
+Sitemap: https://exapeuro.github.io/yQa/sitemap_index.txt
